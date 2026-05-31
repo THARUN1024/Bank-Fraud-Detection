@@ -1,5 +1,7 @@
 # 🏦 Bank Fraud Detection using SQL
 
+Dataset : https://www.kaggle.com/datasets/ealaxi/paysim1
+
 ## 📌 Project Overview
 
 This project focuses on detecting fraudulent banking transactions using SQL. The project leverages a transactional dataset to perform comprehensive Exploratory Data Analysis (EDA), identify fraudulent activities, and generate actionable insights.
