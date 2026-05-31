@@ -23,8 +23,6 @@ The dataset contains banking transaction records with the following fields:
 - **newbalanceDest** – Receiver's balance after transaction
 - **isFraud** – Fraud indicator (1 = Fraudulent, 0 = Legitimate)
 
-> **Note:** The dataset is publicly available and used for educational and analytical purposes only.
-
 ---
 
 ## 🎯 Objectives
